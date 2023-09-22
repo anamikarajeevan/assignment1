@@ -1,0 +1,312 @@
+
+
+body{
+    background-color:white;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+}
+header
+{background-color:white;
+    padding: 15px;
+    box-shadow: 0px 3px 8px 
+}
+header li
+{
+display: inline;
+padding-left: 45px;
+}
+header li a
+{color:#18a47c;
+text-decoration: none;
+padding: 13px;
+transition: .3s ease;
+}
+header li a :hover
+{
+color:blues ;
+
+}
+header li img
+{
+    width: 122px;
+    float: left;
+    margin-top:-65px;
+}
+.tbi
+{
+ color:rgb(39, 109, 94) ; 
+ margin-right:750px ; 
+ font-size:75px;
+ font-style:normal;
+}
+.tech
+{
+    color:rgb(39, 109, 94)  ;
+    text-size-adjust: 12px;
+    margin-right: 750px ;
+    font-size: 15px;
+    font-style: initial;
+
+}
+h4
+{
+    font-size:12px ;
+    color: rgb(102, 230, 158);
+    font-style: normal;
+    text-align:left;
+    font-weight:1px;
+    margin-left:200px ;
+    
+    
+}
+h6
+{
+    font-size:12px ;
+    font-style: normal;
+    text-align:left;
+    color: rgb(102, 230, 158);
+    margin-left:200px ;
+    margin-top: -35px;
+}
+
+h2
+{
+    margin-left:270px ;
+    font-size: 18.5px;
+    font-weight: 1px;
+    text-align: left;
+    color:rgb(102, 230, 158) ;
+} 
+.logo1
+{
+    
+    margin-left: 850px;
+    margin-top: -220px ;
+    border-style:solid;
+    border-width: 2px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.logo2
+{
+  
+  margin-left:150px ;
+  border-style:solid;
+  border-width: 2px;
+  margin-top: 10px;
+  margin-right:850px;
+  border-radius: 10px;
+}
+.era
+{
+    text-align:right; 
+    margin-right: 1180px;
+    font-size: 10px;
+    margin-top: -45px; 
+    font-size:10px ;
+    font-weight:1px ;
+    font-style: normal;
+    color: rgb(102, 230, 158);
+
+
+
+}
+.do
+{
+    border-color:#3aba8d;;
+    border-style: groove;
+    background-color:rgba(21,166,125,255);
+    text-align: left;
+    margin-left: 100px;
+    color: white;
+    margin-right: 50px;
+    height: 450px;
+    
+}
+.logo4
+{
+text-align: left;
+margin-left: 100px;
+margin-top: -75px; 
+margin-top:10px ;
+
+}
+h5
+
+{
+    color: rgb(29, 86, 72) ;
+    font-size: 45px;
+    text-align: left;
+    margin-left: 90px;
+
+}
+.logo3
+{
+
+margin-left: 900px;
+margin-top: -150px;
+}
+hr
+{
+ color: rgb(33, 135, 86);  
+ position: relative;
+ height: 40px;
+ background-color: rgb(33, 135, 86) ;
+ margin-bottom: 100px;
+ margin-top: 40px;
+ margin-left: 40px;
+ margin-right: 40px;
+}
+.us
+{
+ color: white;
+ border-style: groove;
+ border-color: #3aba8d;
+ background-color: #18a47c;
+ text-align: left;
+ margin-left: 100px;
+ margin-right: 50px;
+}
+.about
+{
+    color: white;
+    text-align: left;
+    margin-right: 800px;
+    margin-bottom: -15px;
+}
+.th
+{
+ color: white;
+ text-align: left;
+ margin-left: 100px;
+}
+.ce
+{color: white;
+    text-align: left;
+    margin-right: 800px;
+    
+}
+.ll
+{
+margin-left: 30px;
+font-size: 50px;
+}
+
+.logo5
+{
+  text-align: right;  
+}
+.con
+{
+text-align: left;
+font-size: 35px;
+color:rgb(33, 135, 86) ;
+margin-left: -50px;
+}
+.contact{
+background-color: #BBFBEA;
+margin-left: 100px;
+padding: 10px;
+width:40px;
+border-radius: 10px;
+
+}
+
+.name,.mobile,.email{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+
+}
+.name  input,.mobile  input,.email input{
+    width: 100%;
+}
+.query{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom:10px ;
+}
+.query input
+{
+    width: 100%;
+    height: 80px;
+    
+}
+.submit input
+{
+  border-radius: 5px; 
+  background-color: #1d5a32;
+  width: 200px;
+  height: 30px;
+  color: white;
+  
+}
+.logo6
+{
+   margin-left: 800px;
+   margin-top: -350px;
+}
+.logo8
+{
+  margin-left: 400px;  
+}
+.strong
+{
+   
+   color: #5fcfad;
+   text-align:left;
+   margin-left: 850px;
+   margin-top: -150px;
+}
+.number
+{
+   color: #5fcfad; 
+   text-align: left;
+   margin-left: 800px;
+   margin-top:-20px ;
+   margin-bottom: 150px;
+}
+.foll{
+    text-align: left;
+    color: #5fcfad;
+    margin-left: 950px;
+   margin-top: -100px;
+
+}
+.logo7{
+    margin-left:800px ;
+    margin-top: -20px;
+}
+.copy
+{
+   margin-top: -40px;
+   color: white;
+   margin-right: 70px;
+}
+.by
+{
+   text-align: right; 
+   color: white;
+   margin-right: 40px;
+}
+.footer
+{
+    height: 60px;
+    background-color: #1d5a32;
+    margin-left: 100px;
+    margin-right: 50px;
+
+}
+.logo9
+{
+    text-align: right;
+    margin-right:50px ;
+    margin-bottom: 1000px;
+    margin-top: -20px;
+    border-radius: 10px;
+}
